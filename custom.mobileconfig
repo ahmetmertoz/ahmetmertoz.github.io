@@ -18,7 +18,7 @@
             <key>Precomposed</key>
             <false/>
             <key>URL</key>
-            <string>https://developer.apple.com/documentation/devicemanagement/webclip</string>
+            <string>spotify://</string>
             <key>PayloadIdentifier</key>
             <string>com.company.profile.2F8AA603-60C4-4BFB-AB9B-CF08F9F517F0.com.apple.security.pkcs12.2FE69591-5B8E-4017-9753-5074813B3F8B</string>
             <key>PayloadType</key>
