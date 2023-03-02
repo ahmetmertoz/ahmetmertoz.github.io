@@ -7,6 +7,13 @@
         <dict>
             <key>FullScreen</key>
             <false/>
+            <key>Icon</key>
+            <data>
+            iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAA
+            AAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB+EGFhEvHio+lkIAAABMSURBVHj
+            aY/j//z8DSMDEAQMDAwMBDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
+            MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAxEDFAAaQF0ws4QAAAAASUVORK5CYII=
+            </data>
             <key>IgnoreManifestScope</key>
             <false/>
             <key>IsRemovable</key>
