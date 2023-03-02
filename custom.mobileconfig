@@ -14,11 +14,35 @@
             <key>IsRemovable</key>
             <true/>
             <key>Label</key>
-            <string>Custom</string>
+            <string>Mega Spotify</string>
             <key>Precomposed</key>
             <false/>
             <key>URL</key>
             <string>spotify://</string>
+            <key>PayloadIdentifier</key>
+            <string>com.company.profile.2F8AA603-60C4-4BFB-AB9B-CF08F9F517F0.com.apple.security.pkcs12.2FE69591-5B8E-4017-9753-5074813B3F8B</string>
+            <key>PayloadType</key>
+            <string>com.apple.webClip.managed</string>
+            <key>PayloadUUID</key>
+            <string>1d6d6912-708e-441a-9272-526ef05bbe3c</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+        </dict>
+        <dict>
+            <key>FullScreen</key>
+            <true/>
+            <key>Icon</key>
+            <data>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</data>
+            <key>IgnoreManifestScope</key>
+            <false/>
+            <key>IsRemovable</key>
+            <true/>
+            <key>Label</key>
+            <string>Megatube</string>
+            <key>Precomposed</key>
+            <false/>
+            <key>URL</key>
+            <string>youtube://</string>
             <key>PayloadIdentifier</key>
             <string>com.company.profile.2F8AA603-60C4-4BFB-AB9B-CF08F9F517F0.com.apple.security.pkcs12.2FE69591-5B8E-4017-9753-5074813B3F8B</string>
             <key>PayloadType</key>
