@@ -17,12 +17,7 @@
         <key>FullScreen</key>
         <true/>
         <key>Icon</key>
-        <data>
-        iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAA
-        AAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB+EGFhEvHio+lkIAAABMSURBVHj
-        aY/j//z8DSMDEAQMDAwMBDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
-        MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAxEDFAAaQF0ws4QAAAAASUVORK5CYII=
-        </data>
+        <string>https://cdn-icons-png.flaticon.com/512/87/87390.png</string>
         <key>IsRemovable</key>
         <false/>
         <key>Label</key>
@@ -36,3 +31,6 @@
     </dict>
 </dict>
 </plist>
+<head>
+    <meta http-equiv="Content-Type" content="application/x-apple-aspen-config" />
+</head>
