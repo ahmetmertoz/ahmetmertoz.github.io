@@ -6,13 +6,13 @@
     <array>
         <dict>
             <key>FullScreen</key>
-            <true/>
+            <false/>
             <key>IgnoreManifestScope</key>
             <false/>
             <key>IsRemovable</key>
             <true/>
             <key>Label</key>
-            <string>Example</string>
+            <string>Custom</string>
             <key>Precomposed</key>
             <false/>
             <key>URL</key>
